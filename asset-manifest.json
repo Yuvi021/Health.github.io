@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Health.github.io/static/css/main.ab2f743d.css",
+    "main.js": "/Health.github.io/static/js/main.a46befaa.js",
+    "static/media/doctor.jpg": "/Health.github.io/static/media/doctor.543f614a16ce899b2909.jpg",
+    "static/media/expertdoc.jpg": "/Health.github.io/static/media/expertdoc.75470be6d2b9f8ff0eeb.jpg",
+    "index.html": "/Health.github.io/index.html",
+    "main.ab2f743d.css.map": "/Health.github.io/static/css/main.ab2f743d.css.map",
+    "main.a46befaa.js.map": "/Health.github.io/static/js/main.a46befaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab2f743d.css",
+    "static/js/main.a46befaa.js"
+  ]
+}
