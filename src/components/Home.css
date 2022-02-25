@@ -1,0 +1,60 @@
+.bgimage{
+    background-image: url("../images/doctor.jpg");
+    background-size: cover;
+    align-items: center !important;
+    height: 750px;
+    width: auto;
+    margin-top: 0 !important;
+    
+}
+
+.maintext{
+    color: aliceblue !important; 
+    margin-top: 20%;
+    font-weight: bold;
+
+    
+}
+
+h1.maintext{
+font-size: 3.5rem;
+font-weight: bold;
+
+}
+
+.ptext{
+    font-size: 1.5rem;
+    font-weight: lighter;
+    
+}
+
+button{
+    background-color: green !important;
+    transition-duration: 0.4s;
+    
+} 
+
+.button:hover{
+    background-color: #fff !important;
+    color:green !important;
+}
+
+
+/* Secound Part "EASY STEPS TO GET SOLUTION" */
+
+.secoundbg {
+    background-color:rgb(220, 245, 231);
+}
+h1.secoundtext{
+font-size: 2.3rem !important;
+font-family: sans-serif;
+font-weight: bold;
+text-align: center;
+margin-top: 3rem;
+margin-left: auto;
+}
+
+.cardimg{
+max-width: 100 !important;
+height: 100 !important;
+}

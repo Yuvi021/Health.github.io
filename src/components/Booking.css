@@ -1,0 +1,39 @@
+.booking-section{
+    background-color: black;
+    margin-top: 0px !important;
+}
+
+
+.booking-text{
+margin-top: 10rem ;
+background-color: black;
+}
+
+.tx1{
+color: aliceblue !important;
+}
+
+.tx2{
+    color: aliceblue !important;
+    font-size: 45px !important;
+    padding-right: 12rem;
+}
+
+.tx3{
+    color: aliceblue;
+
+}
+
+.login-sec{
+    color: aliceblue;
+    margin-top: 10rem;
+    padding-left: 1rem;
+}
+
+.col{
+    margin: 1rem;
+}
+
+.subbtn{
+    margin-top: 1rem;
+}

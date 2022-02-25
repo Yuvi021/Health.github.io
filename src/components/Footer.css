@@ -1,0 +1,32 @@
+.footerbg{
+    background-color: rgb(8, 56, 54) !important;
+}
+
+.footer-heading{
+    margin-top: 7rem;
+    color: aliceblue;
+}
+
+.footer-text{
+    margin-top: 1rem;
+    color: aliceblue; 
+}
+
+.footer-btn{
+margin-top: 1rem;
+}
+
+.logo-title{
+font-weight: 900;
+font-size: 50px !important;
+margin-bottom: 5rem !important;
+}
+
+.footer-menu{
+    margin-top: 3rem;
+    color: aliceblue;
+}
+
+.menu{
+    margin: 1rem;
+}

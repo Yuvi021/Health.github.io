@@ -1,0 +1,44 @@
+.secoundbg {
+    background-color:rgb(220, 245, 231);
+}
+
+.main-heading{
+font-size: 2.3rem !important;
+font-family: sans-serif;
+font-weight: bold;
+text-align: center;
+margin-top: 5rem;
+margin-bottom: 3rem;
+}
+
+.cardcontainer{
+    margin-bottom: 1rem;
+
+    
+}
+.cardcontainer:hover{
+     transform: scale(1.05);
+  box-shadow: 0 20px 20px green, 0 20px 20px green;
+}
+
+.searchimgc{
+    height: 50px;
+    width: 50px;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding-top: 1rem;
+    
+}
+
+h5{
+    font-weight: bold;
+    padding-top: 1rem  !important ;
+}
+
+h7{
+    font-weight:lighter;
+    text-align: center;
+
+}

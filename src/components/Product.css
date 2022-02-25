@@ -1,0 +1,23 @@
+.backgroundcolor{
+background-color:rgb(220, 245, 231);
+}
+
+.ourproductheading{
+    margin-top: 3rem;
+    text-align: center;
+    font-weight:bold ;
+}
+
+.productcontainer{
+    margin-top: 1rem;
+}
+
+.productcontainer:hover{
+     transform: scale(1.05);
+    box-shadow: 0 20px 20px green, 0 20px 20px green;
+}
+
+.btn{
+    background-color: green !important;
+    border: none;
+}
